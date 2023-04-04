@@ -2,6 +2,8 @@ Welcome to My Project.
 
 Author: Jem
 firstname: Justine 
+LastName = Mavunje 
+
 
 Cheat Sheet - Git Commands Used in This Section
 In this section, you created and worked with a local repository.
